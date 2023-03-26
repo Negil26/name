@@ -1,0 +1,17 @@
+body {
+  background-color: #f8f9fa;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+.form-floating {
+  background-color: #fff;
+}
+
+.mb-2 {
+  width: 175px;
+}
